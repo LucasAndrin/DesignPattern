@@ -5,50 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5554d49c-19bd-470e-ad0d-b463c7779365" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/factories/CaoaCheryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/factories/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/factories/FiatFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/factories/FordFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/models/cars/caoachery/Arrizo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/models/cars/caoachery/QQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/models/cars/fiat/Palio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/models/cars/fiat/Siena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/models/cars/ford/Fiesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/models/cars/ford/FiestaSedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/models/cars/interfaces/PopularCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractfactory/models/cars/interfaces/SedanCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/ClienteSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/ServidorSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fluent/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fluent/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/animals/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototype/CarPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototype/FiestaPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototype/GolPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototype/PalioPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/Wildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/users/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/users/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wildcards/users/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe1/MyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe3/ProductRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe4/KeySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe4/KeyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
