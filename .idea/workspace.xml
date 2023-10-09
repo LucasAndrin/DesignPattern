@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5554d49c-19bd-470e-ad0d-b463c7779365" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe1/MyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe3/ProductRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe4/KeySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe4/KeyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/exercices/exe4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wildcards/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wildcards/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wildcards/Wildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wildcards/Wildcards.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

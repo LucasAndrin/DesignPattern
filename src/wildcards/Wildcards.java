@@ -28,6 +28,20 @@ public class Wildcards {
         return false;
     }
 
+    public static void soutListElements(List<?> list) {
+        for (Object o : list) {
+            System.out.println(o);
+        }
+    }
+
+    public static double getAverage(List<? extends Number> numbers) {
+        double sum = 0.0;
+        for (Number number : numbers) {
+            sum += number.doubleValue();
+        }
+        return sum / numbers.size();
+    }
+
     /**
      *
      * @param list of Users
@@ -39,6 +53,10 @@ public class Wildcards {
             uuids.add(user.getUuid());
         }
         return uuids;
+    }
+
+    public static void addInteger(List<? super Integer> list, int integer) {
+        list.add(integer);
     }
 
     public static void pushUsers(List<? super User> list, int number) {
