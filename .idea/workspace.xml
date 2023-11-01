@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5554d49c-19bd-470e-ad0d-b463c7779365" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/unit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit/OperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit/exercices/exe1/ColumnGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit/exercices/exe1/ColumnGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit/exercices/exe1/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit/exercices/exe2/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit/exercices/exe2/ArithmeticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wildcards/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wildcards/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wildcards/Wildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wildcards/Wildcards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +27,9 @@
       <list>
         <option value="Interface" />
         <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -49,16 +59,110 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Lucas Andrin/Documentos/IFC/A Formacao/BCC/POO2/DesignPattern&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="unit.exercices.exe1" />
+      <recent name="unit.exercices.exe2" />
+      <recent name="unit" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="generics" />
       <recent name="prototype" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ColumnGeneratorTest">
+    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit.exercices.exe2.Arithmetic" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.exercices.exe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit.exercices.exe1.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.exercices.exe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.exercices.exe2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unit.exercices.exe2" />
+      <option name="MAIN_CLASS_NAME" value="unit.exercices.exe2.ArithmeticTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColumnGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.exercices.exe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unit.exercices.exe1" />
+      <option name="MAIN_CLASS_NAME" value="unit.exercices.exe1.ColumnGeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColumnGeneratorTest.columnInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.exercices.exe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unit.exercices.exe1" />
+      <option name="MAIN_CLASS_NAME" value="unit.exercices.exe1.ColumnGeneratorTest" />
+      <option name="METHOD_NAME" value="columnInteger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ColumnGeneratorTest" />
+        <item itemvalue="JUnit.ColumnGeneratorTest.columnInteger" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ArithmeticTest" />
+        <item itemvalue="Application.Arithmetic" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
